@@ -1,3 +1,9 @@
+**🚨🚧 IMPORTANT 🚧🚨**
+
+This is the backup/legacy repository for the pygamelib project (hac-game-lib is the former name). I made a backup repository just in case but all new development will be in the [pygamelib](https://github.com/arnauddupuis/pygamelib) repository.
+
+**🚨🚧 IMPORTANT 🚧🚨**
+
 ![Linux: Ok](https://img.shields.io/badge/Linux-Ok-green.svg "Linux: Ok")
 ![Windows: Ok](https://img.shields.io/badge/Windows-Ok-green.svg "Windows: Ok")
 ![Mac OS: Ok](https://img.shields.io/badge/Mac%20OS-Ok-green.svg "Mac OS: Ok")
